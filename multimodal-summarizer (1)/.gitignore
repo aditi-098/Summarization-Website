@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+*.mp3
+*.mp4
+*.avi
+*.png
+*.mov
+temp_*
